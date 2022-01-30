@@ -1,3 +1,30 @@
+## [0.62.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.62.1...v0.62.2) (2022-01-28)
+
+
+### Bug Fixes
+
+* trigger build ([c704018](https://github.com/EddieHubCommunity/LinkFree/commit/c7040185b14c83bac11427b6d0e6ae373e9afb45))
+
+
+
+## [0.62.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.62.0...v0.62.1) (2022-01-25)
+
+
+### Bug Fixes
+
+* change buttons to links [#1016](https://github.com/EddieHubCommunity/LinkFree/issues/1016) ([#1025](https://github.com/EddieHubCommunity/LinkFree/issues/1025)) ([11664b1](https://github.com/EddieHubCommunity/LinkFree/commit/11664b11b1bc6f8fa9bf0f47e97fb0b3bcd1b35e))
+
+
+
+# [0.62.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.61.0...v0.62.0) (2022-01-24)
+
+
+### Features
+
+* add Polywork Icon ([#1026](https://github.com/EddieHubCommunity/LinkFree/issues/1026)) ([ed2d88e](https://github.com/EddieHubCommunity/LinkFree/commit/ed2d88e160f00f90d9d2a089fc8fd6def11bbc8b))
+
+
+
 # [0.61.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.60.3...v0.61.0) (2022-01-23)
 
 
@@ -13,33 +40,6 @@
 ### Bug Fixes
 
 * Add tabIndex attribute to scroll to top btn ([#992](https://github.com/EddieHubCommunity/LinkFree/issues/992)) ([0666fab](https://github.com/EddieHubCommunity/LinkFree/commit/0666fab81e33039ad520b02e38e3f751fbdff877))
-
-
-
-## [0.60.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.60.1...v0.60.2) (2022-01-19)
-
-
-### Bug Fixes
-
-* add hover to share icons ([#952](https://github.com/EddieHubCommunity/LinkFree/issues/952)) ([b4c19dd](https://github.com/EddieHubCommunity/LinkFree/commit/b4c19dd32338daa82142fad06b81bcbc3b5d275f))
-
-
-
-## [0.60.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.60.0...v0.60.1) (2022-01-17)
-
-
-### Bug Fixes
-
-* profile element hierarchy ([#660](https://github.com/EddieHubCommunity/LinkFree/issues/660)) ([53b685b](https://github.com/EddieHubCommunity/LinkFree/commit/53b685b6bb7d852427be4b60f727b4e1e7641dd0))
-
-
-
-# [0.60.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.59.2...v0.60.0) (2022-01-15)
-
-
-### Features
-
-* Sorted config/links.json and getIcons.js by alphabetical order ([#991](https://github.com/EddieHubCommunity/LinkFree/issues/991)) ([868252f](https://github.com/EddieHubCommunity/LinkFree/commit/868252f6198ba28debfe594d1a180aaa126ca3d9)), closes [#988](https://github.com/EddieHubCommunity/LinkFree/issues/988) [#988](https://github.com/EddieHubCommunity/LinkFree/issues/988)
 
 
 
